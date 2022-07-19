@@ -1,0 +1,15 @@
+{
+  "name": "workshop",
+  "version": "1.0.0",
+  "description": "- Agregar al docker-compose ``` volumes: - type: bind   source: ../   target: /data ```",
+  "main": "sdkdemo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "algosdk": "^1.18.1",
+    "crypto": "^1.0.1"
+  }
+}
